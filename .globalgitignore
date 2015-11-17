@@ -1,0 +1,13 @@
+# Exclude bin and .metadata directories
+bin
+.metadata
+*~
+target/
+# for Mac
+.DS_Store
+._*
+# Eclipse
+.settings
+.gradle
+.classpath
+.project
